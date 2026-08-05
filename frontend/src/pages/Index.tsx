@@ -70,7 +70,7 @@ function liveClientsAsPublicClients(liveClients: LiveDataMap['clients'] = []): C
       group: '',
       tags: '',
       hidden: false,
-      price: 0,
+      /* price: 0, */
       billing_cycle: 0,
       currency: '',
       expired_at: '',
